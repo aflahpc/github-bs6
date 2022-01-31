@@ -1,0 +1,35 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(194, 231, 243);
+}
+img{
+    width: 120px;
+}
+.telegram{
+    text-align: center;
+    margin-top: 50px;
+}
+form{
+    padding: 20px;
+    border: 2px solid rgb(202, 201, 201);
+    border-radius: 5px;
+    margin: 90px auto;
+    text-align: center;
+    width: 60%;
+}
+button{
+    background-color: #4a9ffa;
+}
+select{
+    margin-bottom: 0.5cm;
+}
+.footer{
+    padding: 15px;
+    text-align: center;
+    background-color: rgb(194, 231, 243);
+}
+
+
+
